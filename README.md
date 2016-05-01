@@ -1,5 +1,5 @@
 # MikeOS-4.5_FAT32
-This is the long awaited FAT32 version of MikeOS using The 1.44MB FAT32
+This is the long awaited FAT32 version of 16-bit real mode MikeOS using The 1.44MB FAT32
 Floppy Disk Image which makes a simple FAT32 driver as simple and easy
 as FAT12. Say goodbye to FAT12 (and FAT16) and hello to FAT32.
 See source\bootload\bootload.asm for the details on the new "format"
